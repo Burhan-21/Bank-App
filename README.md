@@ -1,7 +1,6 @@
 # Bank Account Simulation
 
-Welcome! This is a **console-based Bank Account Simulation** written in Java 17, developed as part of the **Elevate Labs Java Developer Internship Task 5**.  
-The project simulates real-world banking operations while practicing **OOP concepts, inheritance, encapsulation, polymorphism**, and modern Java features like **records**, **enums**, and **enhanced switch expressions**.
+This console-based Bank Account Simulation, built with Java 17, models real-world banking operations while reinforcing OOP principles—including inheritance, encapsulation, and polymorphism—and showcases modern Java features such as records, enums, and enhanced switch expressions.
 
 ---
 
